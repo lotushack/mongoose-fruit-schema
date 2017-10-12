@@ -1,0 +1,26 @@
+[{
+    "name": "pineapple",
+    "avatar": "https://pbs.twimg.com/profile_images/727303695671554048/lhJOiaHE.jpg",
+    "grownIn": ["Costa Rica", "Brazil", "Philippines"]
+  },
+  {
+    "name": "apple",
+    "avatar": "https://en.unitec-group.com/images/inglese/apples.jpg",
+    "grownIn": ["China", "US", "Italy"]
+  },
+  {
+    "name": "orange",
+    "avatar": "http://www.sealdsweet.com/img/oranges.jpg",
+    "grownIn": ["US", "Brazil", "China"]
+  },
+  {
+    "name": "pear",
+    "avatar": "http://usapears.org/wp-content/uploads/2015/01/anjou-whole-half.jpg",
+    "grownIn": ["China", "Italy", "US"]
+  },
+  {
+    "name": "grapes",
+    "avatar": "https://top5ofanything.com/uploads/2015/09/Grapes-600x400.jpg",
+    "grownIn": ["France", "US", "Italy"]
+  }
+]
